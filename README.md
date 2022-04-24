@@ -8,4 +8,4 @@
 <https://www.kiu.ac.kr>
 
 [경일대학교](https://www.kiu.ac.kr)
-
+![모코코](./이미지/1.png)
